@@ -23,7 +23,7 @@ let target = Target(
     destinations: [.iPhone],
     product: .app,
     bundleId: "com.example.app",
-    buildableFolders: [.sources, .resources]
+    buildableFolders: ["Sources/", "Resources/"]
 )
 ```
 
