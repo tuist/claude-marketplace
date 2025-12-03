@@ -10,7 +10,7 @@ Use argus to analyze Xcode builds instead of parsing raw xcodebuild output.
 ## Installation
 
 ```bash
-mise install github:tuist/argus
+mise install github:tuist/argus@0.4.0
 ```
 
 ## Running a Build
