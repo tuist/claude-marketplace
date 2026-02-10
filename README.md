@@ -1,5 +1,8 @@
 # Claude Marketplace
 
+> [!WARNING]
+> This repository is archived. Check out our [skills](https://docs.tuist.dev/en/guides/features/agentic-coding/skills) page in the documentation to learn about how to install and update our officially-maintained skills.
+
 A collection of Claude Code plugins designed for [Tuist](https://tuist.dev) users. These plugins enhance Claude's capabilities with domain-specific knowledge and tooling for various development workflows.
 
 ## What are Claude Plugins?
